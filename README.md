@@ -14,7 +14,7 @@ MATLAB demo for phase retrieval using Perturbed Amplitude Flow algorithm, which 
 <img src="https://github.com/Ford666/Perturbed-amplitude-flow/blob/main/images/real_PAF.png" width="500px">
 
 
-For detailed peformance comparison with other non-convex algorithms like AF, TAF, RAF, in terms of noise robustness, recovery probability at various m/n, please see the paper.
+For detailed peformance comparison with other non-convex algorithms like AF, TAF, RAF, in terms of the relative error progress curve with or without noise, recovery probability at various sampling rates m/n, please see the paper [1].
 
 
 
