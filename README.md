@@ -3,7 +3,7 @@ MATLAB demo for phase retrieval using Perturbed Amplitude Flow algorithm, which 
 
 The pseudo-code of PAF is
 
-<img src="https://github.com/Ford666/Perturbed-amplitude-flow/blob/main/images/PAF.png" width="300px">
+<img src="https://github.com/Ford666/Perturbed-amplitude-flow/blob/main/images/PAF.png" width="800px">
 
 
 
