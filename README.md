@@ -2,7 +2,7 @@
 MATLAB demo for phase retrieval using Perturbed Amplitude Flow algorithm, which is proposed by B. Gao et al in 2020 [1].
 
 The pseudo-code of PAF is 
-![](https://github.com/Ford666/Perturbed-amplitude-flow/tree/main/images/PAF.png)
+![](https://github.com/Ford666/Perturbed-amplitude-flow/tree/main/images/PAF.png) 
 
 
 
