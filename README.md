@@ -1,9 +1,9 @@
-# Perturbed-amplitude-flow-PAF-
+# Perturbed-amplitude-flow (PAF)
 MATLAB demo for phase retrieval using Perturbed Amplitude Flow algorithm, which is proposed by B. Gao et al in 2020 [1].
 
 The pseudo-code of PAF is 
 ![PAF](./images/Algorithm 1 Perturbated Amplitude Flow2.png)
-![](https://github.com/Ford666/AR2OR-PAM/Perturbed-amplitude-flow-PAF-/Algorithm 1 Perturbated Amplitude Flow2.png)
+![](https://github.com/Ford666/AR2OR-PAM/Perturbed-amplitude-flow/images/Algorithm 1 Perturbated Amplitude Flow2.png)
 
 
 
