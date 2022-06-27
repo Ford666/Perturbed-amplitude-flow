@@ -18,7 +18,7 @@ if isfield(Params, 'npower_iter') == 0,  Params.npower_iter = 30;   end		% numbe
 
 n           = Params.n1;    
 m           = Params.m;         
-cplx_flag	= Params.cplx_flag;  % real-valued: cplx_flag = 0;  complex-valued: cplx_flag = 1;    
+cplx_flag	  = Params.cplx_flag;  % real-valued: cplx_flag = 0;  complex-valued: cplx_flag = 1;    
 mu          = 2.5;  % step size 
 gamma       = 1/sqrt(3)*(1-cplx_flag) + 1/2*cplx_flag;
 alp         = 2*(1-cplx_flag) + 1*cplx_flag; % perturbation coefficient
