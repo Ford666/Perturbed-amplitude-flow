@@ -1,9 +1,20 @@
 # Perturbed-amplitude-flow (PAF)
 MATLAB demo for phase retrieval using Perturbed Amplitude Flow algorithm, which is proposed by B. Gao et al in 2020 [1].
 
-The pseudo-code of PAF is
+## Pseudo-code of PAF
 
 <img src="https://github.com/Ford666/Perturbed-amplitude-flow/blob/main/images/PAF.png" width="800px">
+
+## Simulation
+
+1. Complex-numebr case (m/n=5)
+<img src="https://github.com/Ford666/Perturbed-amplitude-flow/blob/main/images/complex_PAF.png" width="800px">
+
+2. Real-number case (m/n=5)
+<img src="https://github.com/Ford666/Perturbed-amplitude-flow/blob/main/images/real_PAF.png" width="800px">
+
+
+For detailed peformance comparison with other non-convex algorithms like AF, TAF, RAF, in terms of noise robustness, recovery probability at various m/n, please see the paper.
 
 
 
